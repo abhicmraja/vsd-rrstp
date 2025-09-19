@@ -5,7 +5,7 @@ sudo apt-get update
 ```
 
 <details>
-<summary><h2>## Yosys</h2></summary>
+<summary><h2>Yosys</h2></summary>
 1. Clone the Yosys repository
 ```
 git clone https://github.com/YosysHQ/yosys.git
