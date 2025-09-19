@@ -2,6 +2,7 @@
 
 This repository relies on open-source EDA tools that are best supported on Ubuntu 20.04 or later. While other Linux distributions may work, we recommend Ubuntu for maximum compatibility. If your system doesn't run Ubuntu (or Linux) natively, setting it up in a virtual machine (VM) is a straightforward way to get started.
 
+## Suggested Setup: Virtual Machine
 For Windows users, Oracle VM VirtualBox is a solid choice. macOS users can opt for UTM or similar tools. Regardless of your VM software, aim for these minimum specifications to ensure smooth performance with the EDA tools:
 
 - **RAM:** 6 GB
@@ -10,7 +11,6 @@ For Windows users, Oracle VM VirtualBox is a solid choice. macOS users can opt f
 - **vCPU:** 4
 
 ## Alternative Setup: Dual-Booting for Better Performance
-
 VMs are convenient but can reduce performance by sharing resources with your host OS (Windows or macOS). For direct hardware access and optimal efficiency, consider dual-booting Ubuntu alongside your primary OS. 
 
 ### For Apple Silicon Macs
