@@ -1,6 +1,6 @@
 # System Setup
 
-This repository uses open-source EDA tools that are supported on Ubuntu 20.04 or later. While other Linux distributions may work, Ubuntu is recommended for optimal compatibility. If your system doesn't run Ubuntu natively, you can install it via a virtual machine (VM) to get started easily.
+This repository uses open-source EDA tools that are supported on Ubuntu 20.04 or later. While other Linux distributions may work, Ubuntu is recommended for optimal compatibility. If your system doesn't run Ubuntu (or Linux) natively, you can install it via a virtual machine (VM) to get started easily.
 
 For Windows users, we suggest Oracle VM VirtualBox. For macOS users, UTM is a great option. Feel free to use any VM software that suits your needs. To ensure smooth performance with the EDA tools, we recommend the following VM specifications:
 
