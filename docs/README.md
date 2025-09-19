@@ -9,12 +9,12 @@ For Windows users, we suggest Oracle VM VirtualBox. For macOS users, UTM is a gr
 - **OS:** Ubuntu 20.04 or later (prefer LTS versions for stability)
 - **vCPU:** 4
 
-## Alternative Setup for Apple Silicon Macs
+### Alternative Setup
+While VMs are user-friendly, they split resources between macOS and Ubuntu, which can impact performance. Hence dual-booting Ubuntu, allows direct hardware access without virtualization overhead. 
 
-While VMs are user-friendly, they split resources between macOS and Ubuntu, which can impact performance. For a more efficient setup on Apple Silicon machines (like M1/M2), consider dual-booting Ubuntu using Asahi Linux. This allows direct hardware access without virtualization overhead.
-
+#### For Apple Silicon Macs
 Follow this step-by-step tutorial by YouTuber kskroyal for installation:  
-[Install Ubuntu 24.04 on M1/M2 Macs Natively Using Asahi Linux](https://www.youtube.com/watch?v=60wxAi8EJow)
+[Install Ubuntu 24.04 on M1/M2 Macs Natively Using Asahi Linux](https://www.youtube.com/watch?v=60wxAi8EJow) (ensure sufficient storage allocation to Ubuntu)
 
-
-
+#### Note: 
+I have installed Ubuntu 24.04 on my M1 Mac (8GB, 256GB) using Asahi Linux and have allocated 70GB
