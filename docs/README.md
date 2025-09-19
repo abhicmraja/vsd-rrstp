@@ -9,11 +9,11 @@ For Windows users, Oracle VM VirtualBox is a solid choice. macOS users can opt f
 - **OS:** Ubuntu 20.04 or later (LTS versions preferred for stability)
 - **vCPU:** 4
 
-### Alternative Setup: Dual-Booting for Better Performance
+## Alternative Setup: Dual-Booting for Better Performance
 
 VMs are convenient but can reduce performance by sharing resources with your host OS (Windows or macOS). For direct hardware access and optimal efficiency, consider dual-booting Ubuntu alongside your primary OS.
 
-#### For Apple Silicon Macs
+### For Apple Silicon Macs
 You can install Ubuntu natively using Asahi Linux. Follow this step-by-step tutorial by YouTuber kskroyal:  
 [Install Ubuntu 24.04 on M1/M2 Macs Natively Using Asahi Linux](https://www.youtube.com/watch?v=60wxAi8EJow)  
 
