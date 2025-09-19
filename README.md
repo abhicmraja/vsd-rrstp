@@ -25,3 +25,12 @@ Perform comprehensive verification to ensure successful silicon fabrication. Thi
 
 
 # Project Organization
+**docs/**  
+All weekly reports, task submissions, and explanatory notes are documented here. Each week typically gets its own file or subfolder for clarity.
+
+**assets/**  
+Screenshots, reference images, plotted figures, and any media content used to illustrate results or document issues encountered during the project.
+
+**labs/**  
+Lab assignments, Verilog/VHDL source codes, C/C++ models, synthesis scripts, and experimental code snippets for each week’s exercise or task.
+
