@@ -10,7 +10,7 @@ For Windows users, we suggest Oracle VM VirtualBox. For macOS users, UTM is a gr
 - **vCPU:** 4
 
 ### Alternative Setup
-While VMs are user-friendly, they split resources between macOS and Ubuntu, which can impact performance. Hence dual-booting Ubuntu, allows direct hardware access without virtualization overhead. 
+While VMs are user-friendly, they split resources between Windows/macOS and Ubuntu, which can impact performance. Hence dual-booting Ubuntu, allows direct hardware access without virtualization overhead. 
 
 #### For Apple Silicon Macs
 Follow this step-by-step tutorial by YouTuber kskroyal for installation:  
