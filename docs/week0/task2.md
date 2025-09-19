@@ -44,6 +44,9 @@ make
 sudo make install
 ```
 
+8. Test installation - invoke yosys
+<img width="575" alt="yosys" src="[https://github.com/assets/week0/yosys.png](https://github.com/abhicmraja/vsd-rrstp/blob/21134c6eaf2a4b43fb4b45d7854d35ca3d9c4546/assets/week0/yosys.png)">
+
 ## Iverilog
 Install iverilog
 ```
