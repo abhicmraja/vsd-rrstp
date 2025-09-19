@@ -3,7 +3,7 @@ RISC-V Reference SoC Tapeout Program by VSD
 
 This repository documents my journey through VSD's RISC-V Reference SoC Tapeout Program, featuring week-to-week task submissions along the way. The aim of the project is to design, implement, and tape out a System on Chip (SoC) using robust open-source VLSI methodologies, providing practical exposure to the complete digital design flow from specification to GDSII for fabrication.
 
-**SoC Tapeout Pipeline**
+## SoC Tapeout Pipeline
 
 **Specification and Modeling:**  
 Begin by defining the chip’s functionality, target performance, and design constraints. Develop a high-level behavioral model in C/C++ and use a testbench to verify that the initial idea meets the requirements.
