@@ -72,4 +72,5 @@ $ sudo apt install gtkwave
 gtkwave
 ```
 <img width="625" alt="yosys" src="https://github.com/abhicmraja/vsd-rrstp/blob/f94d212e1be6cc8cade1c545810c3ce8bb655bbb/assets/week0/iverilog.png">
+GTKWave Display
 <img width="625" alt="yosys" src="https://github.com/abhicmraja/vsd-rrstp/blob/f94d212e1be6cc8cade1c545810c3ce8bb655bbb/assets/week0/gtkwave_display.png">
