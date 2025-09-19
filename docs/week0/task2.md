@@ -4,7 +4,8 @@ Ensure existing packages are updated
 sudo apt-get update
 ```
 
-## YosysC
+<details>
+<summary><h2>## Yosys</h2></summary>
 1. Clone the Yosys repository
 ```
 git clone https://github.com/YosysHQ/yosys.git
@@ -49,6 +50,8 @@ sudo make install
 yosys
 ```
 <img width="625" alt="yosys" src="https://github.com/abhicmraja/vsd-rrstp/blob/49a5523d8e87d56c7ef70e9ece6dd9cc08a9ddde/assets/week0/yosys.png">
+
+</details>
 
 ## Iverilog
 Install iverilog
