@@ -1,7 +1,7 @@
 # Task 2 - Tools Installation
 Ensure existing packages are updated
 ```
-sudo apt-get update
+sudo apt update && sudo apt upgrade
 ```
 
 <details open>
