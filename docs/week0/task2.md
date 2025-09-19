@@ -44,7 +44,10 @@ make
 sudo make install
 ```
 
-8. Test installation - invoke yosys
+8. Invoke yosys
+```
+yosys
+```
 <img width="625" alt="yosys" src="https://github.com/abhicmraja/vsd-rrstp/blob/21134c6eaf2a4b43fb4b45d7854d35ca3d9c4546/assets/week0/yosys.png">
 
 ## Iverilog
@@ -52,10 +55,21 @@ Install iverilog
 ```
 sudo apt-get install iverilog
 ```
-
+Invoke iverilog
+```
+iverilog
+```
+<img width="625" alt="yosys" src="https://github.com/abhicmraja/vsd-rrstp/blob/f94d212e1be6cc8cade1c545810c3ce8bb655bbb/assets/week0/iverilog.png">
 
 ## GTKWave
 Install GTKWave
 ```
 $ sudo apt install gtkwave
 ```
+
+Invoke gtkwave
+```
+gtkwave
+```
+<img width="625" alt="yosys" src="https://github.com/abhicmraja/vsd-rrstp/blob/f94d212e1be6cc8cade1c545810c3ce8bb655bbb/assets/week0/iverilog.png">
+<img width="625" alt="yosys" src="https://github.com/abhicmraja/vsd-rrstp/blob/f94d212e1be6cc8cade1c545810c3ce8bb655bbb/assets/week0/gtkwave_display.png">
