@@ -1,4 +1,4 @@
-# Task 2 - Tools Installation
+# Task - Tools Installation
 Ensure existing packages are updated
 ```
 sudo apt update && sudo apt upgrade
