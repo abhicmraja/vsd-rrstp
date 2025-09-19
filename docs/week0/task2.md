@@ -44,7 +44,7 @@ make
 sudo make install
 ```
 
-8. Invoke yosys
+### Invoke yosys
 ```
 yosys
 ```
