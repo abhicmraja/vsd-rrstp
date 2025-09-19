@@ -16,6 +16,7 @@ VMs are convenient but can reduce performance by sharing resources with your hos
 ### For Apple Silicon Macs
 You can install Ubuntu natively using Asahi Linux. Follow this step-by-step tutorial by YouTuber kskroyal:  
 [Install Ubuntu 24.04 on M1/M2 Macs Natively Using Asahi Linux](https://www.youtube.com/watch?v=60wxAi8EJow)
+
 Ensure you allocate sufficient storage based on your needs.
 
 ### For Windows
