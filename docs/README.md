@@ -11,10 +11,15 @@ For Windows users, Oracle VM VirtualBox is a solid choice. macOS users can opt f
 
 ## Alternative Setup: Dual-Booting for Better Performance
 
-VMs are convenient but can reduce performance by sharing resources with your host OS (Windows or macOS). For direct hardware access and optimal efficiency, consider dual-booting Ubuntu alongside your primary OS.
+VMs are convenient but can reduce performance by sharing resources with your host OS (Windows or macOS). For direct hardware access and optimal efficiency, consider dual-booting Ubuntu alongside your primary OS. 
 
 ### For Apple Silicon Macs
 You can install Ubuntu natively using Asahi Linux. Follow this step-by-step tutorial by YouTuber kskroyal:  
-[Install Ubuntu 24.04 on M1/M2 Macs Natively Using Asahi Linux](https://www.youtube.com/watch?v=60wxAi8EJow)  
+[Install Ubuntu 24.04 on M1/M2 Macs Natively Using Asahi Linux](https://www.youtube.com/watch?v=60wxAi8EJow)
+Ensure you allocate sufficient storage based on your needs.
 
-**Note:** I've successfully installed Ubuntu 24.04 on an M1 Mac (8GB RAM, 256GB storage) via Asahi Linux, allocating 70GB to Ubuntu. Ensure you allocate sufficient storage based on your needs.
+### For Windows
+Please refer to tutorials for the dual-boot setup. Using two storage drives is recommended, instead of partitioning the same drive. 
+
+# My Setup
+I've successfully installed Ubuntu 24.04 on an M1 Mac (8GB RAM, 256GB storage) via Asahi Linux, allocating 70GB to Ubuntu.
