@@ -44,7 +44,7 @@ make
 sudo make install
 ```
 
-### Invoke yosys
+#### Invoke yosys
 ```
 yosys
 ```
@@ -55,7 +55,7 @@ Install iverilog
 ```
 sudo apt-get install iverilog
 ```
-Invoke iverilog
+#### Invoke iverilog
 ```
 iverilog
 ```
@@ -67,7 +67,7 @@ Install GTKWave
 $ sudo apt install gtkwave
 ```
 
-Invoke gtkwave
+#### Invoke gtkwave
 ```
 gtkwave
 ```
