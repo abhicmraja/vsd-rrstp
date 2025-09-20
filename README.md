@@ -3,8 +3,8 @@
 This repository documents my journey through VSD's RISC-V Reference SoC Tapeout Program, featuring week-to-week task submissions along the way. The aim of the project is to design, implement, and tape out a System on Chip (SoC) using robust open-source VLSI methodologies, providing practical exposure to the complete digital design flow from specification to GDSII for fabrication.
 
 ---
-
-## SoC Tapeout Pipeline
+<details>
+<summary><h2> SoC Tapeout Pipeline </h2></summary>
 
 The SoC development pipeline can be broken down into six key stages:
 
@@ -51,8 +51,9 @@ The SoC development pipeline can be broken down into six key stages:
 - Export final chip as a **GDSII file** ready for tapeout.
 
 ---
+</details>
 
-## Project Organization
+<details>
+<summary><h2> Project Organization </h2></summary>
 
 The repository is structured into the following directories:
-
