@@ -57,3 +57,12 @@ The SoC development pipeline can be broken down into six key stages:
 <summary><h2> Project Organization </h2></summary>
 
 The repository is structured into the following directories:
+
+## Project Organization
+
+| Folder | Description |
+|--------|-------------|
+| ![docs](https://img.shields.io/badge/docs-Reports%20%26%20Notes-2E86C1?style=flat-square) | Weekly reports, task submissions, and explanatory notes |
+| ![assets](https://img.shields.io/badge/assets-Media%20%26%20Figures-28B463?style=flat-square) | Screenshots, reference images, plotted figures, and illustrations |
+| ![labs](https://img.shields.io/badge/labs-Code%20%26%20Scripts-CA6F1E?style=flat-square) | Verilog/VHDL sources, C/C++ models, synthesis scripts, and experiments |
+
