@@ -41,4 +41,3 @@ Designing a System on Chip (SoC) using VLSI methodologies involves a series of s
   - **Layout Versus Schematic (LVS)**: Confirm layout matches the intended circuit structure.
 - Once verified, export the final layout as a GDSII file, ready for semiconductor fabrication.
 
----
