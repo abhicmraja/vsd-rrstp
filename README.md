@@ -1,36 +1,59 @@
-RISC-V Reference SoC Tapeout Program by VSD
-===========================================
+# RISC-V Reference SoC Tapeout Program by VSD
 
-This repository documents my journey through VSD's RISC-V Reference SoC Tapeout Program, featuring week-to-week task submissions along the way. The aim of the project is to design, implement, and tape out a System on Chip (SoC) using robust open-source VLSI methodologies, providing practical exposure to the complete digital design flow from specification to GDSII for fabrication.
+This repository documents my journey through **VSD's RISC-V Reference SoC Tapeout Program**, featuring week-to-week task submissions along the way.  
+The aim of the project is to **design, implement, and tape out a System on Chip (SoC)** using open-source VLSI methodologies — providing practical exposure to the complete digital design flow from **specification to GDSII for fabrication**.
+
+---
 
 ## SoC Tapeout Pipeline
 
-**Specification and Modeling:**  
-Begin by defining the chip’s functionality, target performance, and design constraints. Develop a high-level behavioral model in C/C++ and use a testbench to verify that the initial idea meets the requirements.
+The SoC development pipeline can be broken down into six key stages:
 
-**RTL Design:**  
-Convert the behavioral model into Register Transfer Level (RTL) hardware code using Verilog or VHDL. This captures all data flows, control paths, and major functional blocks while ensuring correctness by comparing it to the initial model.
+---
 
-**Synthesis:**  
-Employ synthesis tools to transform the RTL into a technology-specific gate-level netlist, mapping functions to digital gates and integrating essential pre-designed IP blocks for both digital and analog features.
+### 1. <span style="color:#2E86C1">Specification and Modeling</span>
+- Define functionality, target performance, and design constraints.  
+- Develop a high-level **C/C++ behavioral model**.  
+- Use a testbench to verify requirements.
 
-**SoC Integration:**  
-Assemble the synthesized processor, memory, macros, IPs, and essential peripherals into a unified chip architecture. This involves interconnecting data, control, clock, and I/O domains for a cohesive SoC.
+---
 
-**Physical Design (RTL to GDSII):**  
-Transform the chip’s logical representation into a manufacturable physical layout. This phase includes floorplanning, placement, clock tree synthesis, routing, and utilization of standard cell and IP libraries to create the final mask layout.
+### 2. <span style="color:#28B463">RTL Design</span>
+- Translate the behavioral model into **Verilog/VHDL**.  
+- Capture data flows, control paths, and functional blocks.  
+- Verify RTL correctness by comparing with the initial model.
 
-**Verification and Sign-off:**  
-Perform comprehensive verification to ensure successful silicon fabrication. This includes running Design Rule Checks (DRC) for manufacturability, Layout Versus Schematic (LVS) checks for circuit correctness, and finally exporting the chip as a GDSII file ready for tapeout.
+---
 
+### 3. <span style="color:#CA6F1E">Synthesis</span>
+- Employ synthesis tools to transform RTL into a **gate-level netlist**.  
+- Map functions to digital gates.  
+- Integrate pre-designed IP blocks (digital + analog).
 
-# Project Organization
-**docs/**  
-All weekly reports, task submissions, and explanatory notes are documented here. Each week typically gets its own file or subfolder for clarity.
+---
 
-**assets/**  
-Screenshots, reference images, plotted figures, and any media content used to illustrate results or document issues encountered during the project.
+### 4. <span style="color:#8E44AD">SoC Integration</span>
+- Assemble processor, memory, macros, IPs, and peripherals.  
+- Interconnect data, control, clock, and I/O domains.  
+- Build a cohesive SoC architecture.
 
-**labs/**  
-Lab assignments, Verilog/VHDL source codes, C/C++ models, synthesis scripts, and experimental code snippets for each week’s exercise or task.
+---
+
+### 5. <span style="color:#D35400">Physical Design (RTL → GDSII)</span>
+- Convert the logical design into a manufacturable **physical layout**.  
+- Floorplanning → Placement → Clock Tree Synthesis → Routing.  
+- Leverage standard cell + IP libraries to generate the final mask layout.
+
+---
+
+### 6. <span style="color:#C0392B">Verification & Sign-off</span>
+- Run **Design Rule Checks (DRC)** for manufacturability.  
+- Perform **Layout Versus Schematic (LVS)** for correctness.  
+- Export final chip as a **GDSII file** ready for tapeout.
+
+---
+
+## Project Organization
+
+The repository is structured into the following directories:
 
