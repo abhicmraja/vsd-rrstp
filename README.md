@@ -67,8 +67,8 @@ The repository is structured into the following directories:
 
 | Folder | Description |
 |--------|-------------|
-| [![/](https://img.shields.io/badge/docs-/-lightgrey?style=flat-square)](./docs) | Weekly reports, task submissions, and explanatory notes |
-| [![/](https://img.shields.io/badge/assets-/-lightgrey?style=flat-square)](./assets) | Screenshots, reference images, plotted figures, and illustrations |
-| [![/](https://img.shields.io/badge/labs-/-lightgrey?style=flat-square)](./labs) | Verilog/VHDL sources, C/C++ models, synthesis scripts, and experiments |
+| [![docs](https://img.shields.io/badge/docs-/-lightgrey?style=flat-square)](./docs) | Weekly reports, task submissions, and explanatory notes |
+| [![assets](https://img.shields.io/badge/assets-/-lightgrey?style=flat-square)](./assets) | Screenshots, reference images, plotted figures, and illustrations |
+| [![labs](https://img.shields.io/badge//-labs-lightgrey?style=flat-square)](./labs) | Verilog/VHDL sources, C/C++ models, synthesis scripts, and experiments |
 
 
