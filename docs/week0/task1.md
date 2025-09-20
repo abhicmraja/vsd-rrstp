@@ -1,6 +1,6 @@
 # Task 1 - Summarise Video on VLSI SoC Design and Planning Process 
 
-Designing a System on Chip (SoC) using VLSI methodologies involves a series of structured steps, transforming an abstract idea into a manufacturable silicon chip. Here’s a concise, descriptive overview suitable for a GitHub repository main page:
+Designing a System on Chip (SoC) using VLSI methodologies involves a series of structured steps, transforming an abstract idea into a manufacturable silicon chip. 
 
 ## 1. Specification and Modeling
 
