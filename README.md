@@ -65,7 +65,7 @@ The repository is structured into the following directories:
 
 | Folder | Description |
 |--------|-------------|
-| ![docs] | Weekly reports, task submissions, and explanatory notes |
+| ![docs]() | Weekly reports, task submissions, and explanatory notes |
 | ![assets](https://img.shields.io/badge/assets-Media%20%26%20Figures-28B463?style=flat-square) | Screenshots, reference images, plotted figures, and illustrations |
 | ![labs](https://img.shields.io/badge/labs-Code%20%26%20Scripts-CA6F1E?style=flat-square) | Verilog/VHDL sources, C/C++ models, synthesis scripts, and experiments |
 
